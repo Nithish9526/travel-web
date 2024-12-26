@@ -87,11 +87,11 @@ const Footer = () => {
 
           <div className="d-flex align-items-top my-2">
           <i className="bi bi-geo-alt me-3"></i>
-          <a target="_blank" href="mailto:rawatcoder@gmail.com" className="d-block" >rawatcoder@gmail.com</a>
+          <a target="_blank" href="nith22066.it@gmail.com" className="d-block" >rawatcoder@gmail.com</a>
           </div>
           <div className="d-flex align-items-top ">
           <i className="bi bi-telephone me-3"></i>
-          <a target="_blank" href="tel:9876543210" className="d-block" >9876543210</a>
+          <a target="_blank" href="tel:9363564102" className="d-block" >9876543210</a>
           </div>
          
           </Col>
